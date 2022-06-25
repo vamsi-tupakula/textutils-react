@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/textutils-react/static/css/main.31d6cfe0.css",
-    "main.js": "/textutils-react/static/js/main.7562153c.js",
+    "main.js": "/textutils-react/static/js/main.22721706.js",
     "index.html": "/textutils-react/index.html",
-    "main.7562153c.js.map": "/textutils-react/static/js/main.7562153c.js.map"
+    "main.22721706.js.map": "/textutils-react/static/js/main.22721706.js.map"
   },
   "entrypoints": [
     "static/css/main.31d6cfe0.css",
-    "static/js/main.7562153c.js"
+    "static/js/main.22721706.js"
   ]
 }
